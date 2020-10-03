@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dadiaogames.github.io/ludum-dare-47-simulator/static/css/main.41756ca6.chunk.css",
-    "main.js": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/main.654741d8.chunk.js",
-    "main.js.map": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/main.654741d8.chunk.js.map",
-    "runtime-main.js": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/runtime-main.24fedbd9.js",
-    "runtime-main.js.map": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/runtime-main.24fedbd9.js.map",
-    "static/js/2.2439d46a.chunk.js": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/2.2439d46a.chunk.js",
-    "static/js/2.2439d46a.chunk.js.map": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/2.2439d46a.chunk.js.map",
-    "index.html": "/dadiaogames.github.io/ludum-dare-47-simulator/index.html",
-    "precache-manifest.0ecd84b64e463f47475e0a8e568fe8cc.js": "/dadiaogames.github.io/ludum-dare-47-simulator/precache-manifest.0ecd84b64e463f47475e0a8e568fe8cc.js",
-    "service-worker.js": "/dadiaogames.github.io/ludum-dare-47-simulator/service-worker.js",
-    "static/css/main.41756ca6.chunk.css.map": "/dadiaogames.github.io/ludum-dare-47-simulator/static/css/main.41756ca6.chunk.css.map",
-    "static/js/2.2439d46a.chunk.js.LICENSE.txt": "/dadiaogames.github.io/ludum-dare-47-simulator/static/js/2.2439d46a.chunk.js.LICENSE.txt"
+    "main.css": "/ludum-dare-47-simulator/static/css/main.41756ca6.chunk.css",
+    "main.js": "/ludum-dare-47-simulator/static/js/main.19aa47c2.chunk.js",
+    "main.js.map": "/ludum-dare-47-simulator/static/js/main.19aa47c2.chunk.js.map",
+    "runtime-main.js": "/ludum-dare-47-simulator/static/js/runtime-main.0e4e8a15.js",
+    "runtime-main.js.map": "/ludum-dare-47-simulator/static/js/runtime-main.0e4e8a15.js.map",
+    "static/js/2.2439d46a.chunk.js": "/ludum-dare-47-simulator/static/js/2.2439d46a.chunk.js",
+    "static/js/2.2439d46a.chunk.js.map": "/ludum-dare-47-simulator/static/js/2.2439d46a.chunk.js.map",
+    "index.html": "/ludum-dare-47-simulator/index.html",
+    "precache-manifest.2d707aa5c94d3343c4e49c81b26be320.js": "/ludum-dare-47-simulator/precache-manifest.2d707aa5c94d3343c4e49c81b26be320.js",
+    "service-worker.js": "/ludum-dare-47-simulator/service-worker.js",
+    "static/css/main.41756ca6.chunk.css.map": "/ludum-dare-47-simulator/static/css/main.41756ca6.chunk.css.map",
+    "static/js/2.2439d46a.chunk.js.LICENSE.txt": "/ludum-dare-47-simulator/static/js/2.2439d46a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.24fedbd9.js",
+    "static/js/runtime-main.0e4e8a15.js",
     "static/js/2.2439d46a.chunk.js",
     "static/css/main.41756ca6.chunk.css",
-    "static/js/main.654741d8.chunk.js"
+    "static/js/main.19aa47c2.chunk.js"
   ]
 }
